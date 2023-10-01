@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Used template from bootstrapmade!
 
 Template Name: NiceAdmin
 Template URL: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/
